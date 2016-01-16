@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <Character xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <LastChanged>2016-01-15T14:07:13.65</LastChanged>
+  <LastChanged>2016-01-16T11:09:29.46</LastChanged>
   <NotPersisted>false</NotPersisted>
   <FileName>Char2.xml</FileName>
   <Name />
@@ -301,7 +301,7 @@
           <Col>3</Col>
           <Row>1</Row>
           <Purchased>true</Purchased>
-          <Free>false</Free>
+          <Free>true</Free>
           <Ranks>0</Ranks>
           <BonusChars />
           <Sources />
@@ -492,7 +492,7 @@
           <Key>FORAG</Key>
           <Col>2</Col>
           <Row>0</Row>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
@@ -553,7 +553,7 @@
           <Col>3</Col>
           <Row>1</Row>
           <Purchased>true</Purchased>
-          <Free>true</Free>
+          <Free>false</Free>
           <Ranks>0</Ranks>
           <BonusChars />
           <Sources />
@@ -2023,7 +2023,7 @@
           <Row>0</Row>
           <Span>1</Span>
           <Cost>10</Cost>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Upgrades>0</Upgrades>
         </CharForceAbility>
         <CharForceAbility>
@@ -2059,7 +2059,7 @@
           <Row>1</Row>
           <Span>1</Span>
           <Cost>10</Cost>
-          <Purchased>false</Purchased>
+          <Purchased>true</Purchased>
           <Upgrades>0</Upgrades>
         </CharForceAbility>
         <CharForceAbility>
@@ -2524,7 +2524,7 @@
         <AttachRanks>0</AttachRanks>
         <ItemRanks>0</ItemRanks>
         <CyberRanks>0</CyberRanks>
-        <PurchasedRanks>0</PurchasedRanks>
+        <PurchasedRanks>1</PurchasedRanks>
         <CharRanks>0</CharRanks>
         <InjuryRanks>0</InjuryRanks>
         <NonCareerRanks>0</NonCareerRanks>
@@ -3478,7 +3478,7 @@ It seems that the most practical way to chieve these goals is to confront the Em
       <AttachRanks>0</AttachRanks>
       <ItemRanks>0</ItemRanks>
       <CyberRanks>0</CyberRanks>
-      <PurchasedRanks>50</PurchasedRanks>
+      <PurchasedRanks>85</PurchasedRanks>
       <CharRanks>0</CharRanks>
       <InjuryRanks>0</InjuryRanks>
       <NonCareerRanks>0</NonCareerRanks>
@@ -3486,7 +3486,7 @@ It seems that the most practical way to chieve these goals is to confront the Em
       <DefWeaponRanks>0</DefWeaponRanks>
       <DefWeaponAttachRanks>0</DefWeaponAttachRanks>
     </ExperienceRanks>
-    <UsedExperience>170</UsedExperience>
+    <UsedExperience>205</UsedExperience>
   </Experience>
   <Attributes>
     <SoakValue>
@@ -3963,7 +3963,7 @@ Was a Jedi Knight during the clone wars.
 
 - After news of the battle of Yavin and the destruction of the Death Star reached Agamar , "new hope" has brought him out of his druken stupor. 
 
-- He shines his boots and badge, picks up his blaster and takes down the petty gangsters &amp; cleans up his town.
+- He shines his boots and badge, picks up his blaster and takes down the petty gangsters cleaning up his town.
 
 - Next he packs his bags and rides off into the sunset hoping the force will lead him to redemtion.
 
